@@ -1,11 +1,7 @@
 # Saudi_Arabia_car_prices
 <html>
 
-<head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>&#1589;&#1601;&#1581;&#1577; &#1580;&#1583;&#1610;&#1583;&#1577; 1</title>
-</head>
+
 
 <body>
 
