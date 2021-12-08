@@ -13,11 +13,9 @@ right car according to the budget we have.</font></p>
 <p>&nbsp;</p>
 <p><font size="7" color="#6699FF"><b>I</b></font><b><font size="7" color="#6699FF"> 
 will use:</font></b></p>
-<p><font size="7" color="#6699FF">Axes3D<br>
-StandardScaler<br>
+<p><font size="7" color="#6699FF"><br>
 matplotlib.pyplot<br>
 numpy<br>
-os <br>
 pandas</font></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
