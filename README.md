@@ -4,11 +4,11 @@
 
 <body>
 
-<p><font size="7" color="#6699FF">I will analyze car price data in Riydhe.
+<p><font size="7" color="#6699FF">I will analyze car price data in Riyadh.
 </font></p>
 <p><font size="7" color="#6699FF">I will compare companies and see the best option to buy the 
 right car according to the budget we have.</font></p>
-<p><font size="7" color="#6699FF">Also, a model that predicts car prices in Riydhe.</font></p>
+<p><font size="7" color="#6699FF">Also, a model that predicts car prices in Riyadh.</font></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><font size="7" color="#6699FF"><b>I</b></font><b><font size="7" color="#6699FF"> 
