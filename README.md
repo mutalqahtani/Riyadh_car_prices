@@ -17,6 +17,7 @@ will use:</font></b></p>
 matplotlib.pyplot<br>
 numpy<br>
 pandas</font></p>
+<p><font size="7" color="#6699FF">seaborn</font></p>
 <p><font size="7" color="#6699FF">sklearn</font></p>
 <p><font size="7" color="#6699FF">sklearn.linear</font></p>
 <p><font size="7" color="#6699FF">sklearn.tree</font></p>
