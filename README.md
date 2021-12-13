@@ -17,6 +17,9 @@ will use:</font></b></p>
 matplotlib.pyplot<br>
 numpy<br>
 pandas</font></p>
+<p><font size="7" color="#6699FF">sklearn</font></p>
+<p><font size="7" color="#6699FF">sklearn.linear</font></p>
+<p><font size="7" color="#6699FF">sklearn.tree</font></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><font size="7" color="#6699FF"><b>The dataset is</b> (carsprices.csv)</font></p>
