@@ -13,19 +13,12 @@ right car according to the budget we have.</font></p>
 <p>&nbsp;</p>
 <p><font size="7" color="#6699FF"><b>I</b></font><b><font size="7" color="#6699FF"> 
 will use:</font></b></p>
-<p><font size="7" color="#6699FF"><br>
-</font><font size="6" color="#6699FF"><b>matplotlib.pyplot</b></font></p>
-<p>&nbsp;</p>
-<p><font size="6" color="#6699FF"><b>numpy<br>
-&nbsp;</b></font></p>
+<p><font size="6" color="#6699FF"><b>matplotlib.pyplot</b></font></p>
+<p><font size="6" color="#6699FF"><b>numpy</b></font></p>
 <p><font size="6" color="#6699FF"><b>pandas</b></font></p>
-<p>&nbsp;</p>
 <p><b><font size="6" color="#6699FF">seaborn</font></b></p>
-<p>&nbsp;</p>
 <p><b><font size="6" color="#6699FF">sklearn</font></b></p>
-<p>&nbsp;</p>
 <p><b><font size="6" color="#6699FF">sklearn.linear</font></b></p>
-<p>&nbsp;</p>
 <p><b><font size="6" color="#6699FF">sklearn.tree</font></b></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
